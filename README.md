@@ -12,7 +12,7 @@
 
 - 📫 Come raggiungermi **Potenza922@gmail.com**
 
-- ⚡ Curiosità **penso di essere sociale, divertente e mi farebbe piacere a stringere nuove amicizie☺️**
+- ⚡ Curiosità **penso di essere sociale, divertente e molto contento di stringere nuove amicizie☺️**
 
 <h3 align="left">Seguimi sui social!☺️:</h3>
 <p align="left">
