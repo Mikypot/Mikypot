@@ -6,7 +6,7 @@
 
 - 🌱 Attualmente sto imparando **JavaScript avanzato**
 
-- 👨‍💻 Tutti i miei progetti sono disponibili su <a href="https://www.mpcontact.com">
+- 👨‍💻 Tutti i miei progetti sono disponibili su <a href="https://www.mpcontact.com">MPCONTACT.COM</a>
 
 - 💬 Chiedimi informazioni su **creazione, deployment e sviluppo web**
 
