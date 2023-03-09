@@ -4,15 +4,15 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
-- 🌱 Attualmente sto imparando **JavaScript avanzato**
+- 🌱 Attualmente sto imparando **JavaScript**
 
-- 👨‍💻 Tutti i miei progetti sono disponibili su <a href="https://www.mpcontact.com">MPCONTACT.COM</a>
+- 👨‍💻 Tutti i miei progetti sono disponibili su **<a href="https://www.mpcontact.com">MPCONTACT.COM</a>**
 
-- 💬 Chiedimi informazioni su **creazione, deployment e sviluppo web**
+- 💬 Chiedimi informazioni su **deployment e sviluppo web**
 
 - 📫 Come raggiungermi **Potenza922@gmail.com**
 
-- ⚡ Curiosità **penso di essere sociale, divertente e molto contento di stringere nuove amicizie☺️**
+- ⚡ Curiosità **penso di essere sociale, divertente e molto attratto dai progetti a cui partecipo**
 
 <h3 align="left">Seguimi sui social!☺️:</h3>
 <p align="left">
