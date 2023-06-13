@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
-- 🌱 Attualmente sto imparando **JavaScript**
+- 🌱 Attualmente sto imparando **React js**
 
 - 👨‍💻 Tutti i miei progetti sono disponibili su **<a href="https://www.mpcontact.com">MPCONTACT.COM</a>**
 
